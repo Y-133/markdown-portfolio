@@ -5,5 +5,5 @@ Replace this with a link to your a GitHub or social media profile.
 
 It is commonly used to host open-source projects.[6] As of November 2021, GitHub reports having over 73 million developers[7] and more than 200 million repositories[8] (including at least 28 million public repositories).[9] It is the largest source code host as of November 2021.
 
-![GITHUB](![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![GITHUB](https://myoctocat.com/assets/images/base-octocat.svg)
 
